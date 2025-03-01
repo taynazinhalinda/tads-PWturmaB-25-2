@@ -1,0 +1,15 @@
+.caixa-titulo {
+    border: 3px solid blue;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+span {
+    border: 1px solid red;
+}
+
+img {
+    width: 20%;
+}
